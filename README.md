@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Erdoğan Şahiner 
-- - 📫 My email adress is erdogan.sahiner@outlook.com
+-  📫 My email adress is erdogan.sahiner@outlook.com
 
 <!---
 yesahiner/yesahiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
