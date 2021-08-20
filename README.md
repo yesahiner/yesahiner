@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yesahiner
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning data science.
 - 📫 My email adress is erdogan.sahiner@outlook.com
 
 <!---
